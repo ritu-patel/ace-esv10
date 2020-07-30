@@ -1,3 +1,3 @@
 # ace-esv10
 
-This is the configuration you need for ACE to connect to EvenstreamsV10
+Configuration you need for ACE to connect to EvenstreamsV10
